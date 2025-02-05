@@ -38,20 +38,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="atharva | tryhackme" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][try hack me]
-[<img align="left" alt="atharva | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="atharva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="atharva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://tryhackme.com/p/atharva.rasal200
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-
 
 <div align="left">
-  <a href="www.linkedin.com/in/atharva-rasal" target="_blank">
+  <a href="https://www.linkedin.com/in/atharva-rasal/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://tryhackme.com/p/atharva.rasal200" target="_blank">
@@ -64,3 +53,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/AtharvaRasal/AtharvaRasal/output/snake.svg" alt="Snake animation" />
+
+###
