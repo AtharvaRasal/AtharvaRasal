@@ -4,14 +4,11 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- <b>SIEM Lab: Real-Time Threat Hunting with Elastic</b>
-  - [SIEM-lab](https://github.com/AtharvaRasal/SIEM-lab)
+- <b>SIEM Lab: Real-Time Threat Hunting with Elastic</b> - [SIEM-lab](https://github.com/AtharvaRasal/SIEM-lab)
     
-- <b>Vulnerability Management: Scanning, Assessing, Securing</b>
-  - [Vulnerability-Management-Lab](https://github.com/AtharvaRasal/Vulnerability-Management-Lab-Nessus) 
+- <b>Vulnerability Management: Scanning, Assessing, Securing</b> - [Vulnerability-Management-Lab](https://github.com/AtharvaRasal/Vulnerability-Management-Lab-Nessus) 
   
-- <b>Unpacking Malware: A Hands-on Analysis Lab</b>
-  - [Malware-analysis-lab](https://github.com/AtharvaRasal/Malware-analysis-lab)
+- <b>Unpacking Malware: A Hands-on Analysis Lab</b> - [Malware-analysis-lab](https://github.com/AtharvaRasal/Malware-analysis-lab)
   
 
 
