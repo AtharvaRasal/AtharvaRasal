@@ -1,6 +1,21 @@
-<h1>Hi, I'm Atharva! <br/><a href="https://github.com/joshmadakor1">Software Developer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Atharva! <br/><a href="https://www.linkedin.com/in/atharva-rasal/">Software Developer</a>, <a href="https://www.linkedin.com/in/atharva-rasal/">Cybersecurity Enthusiast</a></h1>
 
 
+
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Notes-management-system</b> - [Full-Stack Web App - Django](https://github.com/AtharvaRasal/Django-react)
+
+- <b>Blogs-management-system</b> - [Monolithic Web App - Django](https://github.com/AtharvaRasal/SIEM-lab)
+
+- <b>Video-calling-application</b> - [Android (Java)](https://github.com/AtharvaRasal/Video-calling-application)
+
+- <b>Delivery-management-system</b> - [MERN](https://github.com/AtharvaRasal/Pizza-delivery-application)
+
+- <b>Brick-breaker-game</b> - [Java](https://github.com/AtharvaRasal/brick-breaker-game)
+
+- <b>PDF-converter</b> - [Python](https://github.com/AtharvaRasal/pdf-converter)
 
 <h2> Cybersecurity Projects:</h2>
 
@@ -12,9 +27,6 @@
   
 
 
-
-
-<h2>👨‍💻 Software Development Projects:</h2>
 
 
 
